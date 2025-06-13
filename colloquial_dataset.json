@@ -1,0 +1,1681 @@
+[
+    { "en": "What's up?", "hi": "क्या हाल है?" },
+    { "en": "Chill out, man.", "hi": "शांत हो जाओ, यार।" },
+    { "en": "That's so cool!", "hi": "यह तो बहुत बढ़िया है!" },
+    {
+        "en": "I'm feeling a bit under the weather.",
+        "hi": "मेरी तबीयत थोड़ी नासाज है।"
+    },
+    { "en": "Let's grab a bite.", "hi": "चलो कुछ खाते हैं।" },
+    { "en": "Hang in there.", "hi": "लगे रहो।" },
+    { "en": "No worries.", "hi": "कोई बात नहीं।" },
+    { "en": "It's raining cats and dogs.", "hi": "बहुत तेज बारिश हो रही है।" },
+    { "en": "He's a couch potato.", "hi": "वह तो बस घर में पड़ा रहता है।" },
+    { "en": "Break a leg!", "hi": "शुभकामनाएं!" },
+    { "en": "That's the last straw!", "hi": "अब तो हद हो गई!" },
+    { "en": "Spill the beans.", "hi": "सच बताओ।" },
+    { "en": "Bite the bullet.", "hi": "कष्ट सह लो।" },
+    { "en": "Get your act together.", "hi": "अपने काम पर ध्यान दो।" },
+    { "en": "Hit the road.", "hi": "चलो यहाँ से निकलें।" },
+    { "en": "Once in a blue moon.", "hi": "कभी कभार।" },
+    { "en": "Piece of cake.", "hi": "बहुत आसान।" },
+    { "en": "Take it easy.", "hi": "आराम से करो।" },
+    { "en": "See eye to eye.", "hi": "एकमत होना।" },
+    { "en": "Through thick and thin.", "hi": "अच्छे और बुरे समय में।" },
+    { "en": "He's a smart cookie.", "hi": "वह बहुत होशियार है।" },
+    { "en": "I'm just pulling your leg.", "hi": "मैं तो बस मजाक कर रहा हूँ।" },
+    { "en": "Let's call it a day.", "hi": "चलो आज के लिए बस करते हैं।" },
+    { "en": "He's got a chip on his shoulder.", "hi": "वह हमेशा नाराज़ रहता है।" },
+    { "en": "I'm on cloud nine.", "hi": "मैं बहुत खुश हूँ।" },
+    { "en": "Keep your chin up.", "hi": "हिम्मत मत हारो।" },
+    { "en": "Out of the blue.", "hi": "अचानक से।" },
+    { "en": "Rule of thumb.", "hi": "अनुभव के आधार पर नियम।" },
+    { "en": "That's a tough nut to crack.", "hi": "यह एक मुश्किल समस्या है।" },
+    {
+        "en": "Time flies when you're having fun.",
+        "hi": "मज़े करते हुए समय का पता नहीं चलता।"
+    },
+    { "en": "We're in the same boat.", "hi": "हमारी स्थिति एक जैसी है।" },
+    {
+        "en": "You can't judge a book by its cover.",
+        "hi": "किसी को बाहरी रूप से मत आंकना।"
+    },
+    { "en": "He's gone bananas!", "hi": "वह पागल हो गया है!" },
+    { "en": "I'm feeling blue.", "hi": "मैं उदास महसूस कर रहा हूँ।" },
+    { "en": "Let's paint the town red.", "hi": "चलो खूब मस्ती करते हैं।" },
+    {
+        "en": "That's the best thing since sliced bread.",
+        "hi": "यह तो कमाल की चीज है।"
+    },
+    { "en": "To kill two birds with one stone.", "hi": "एक तीर से दो शिकार करना।" },
+    {
+        "en": "Don't count your chickens before they hatch.",
+        "hi": "सपने सच होने से पहले उन पर भरोसा मत करो।"
+    },
+    {
+        "en": "Every cloud has a silver lining.",
+        "hi": "हर मुश्किल में कुछ अच्छा छिपा होता है।"
+    },
+    {
+        "en": "The early bird catches the worm.",
+        "hi": "जो जल्दी उठता है, वह पाता है।"
+    },
+    { "en": "Practice makes perfect.", "hi": "अभ्यास से सब संभव है।" },
+    { "en": "Where there's a will, there's a way.", "hi": "जहाँ चाह, वहाँ राह।" },
+    { "en": "A penny saved is a penny earned.", "hi": "बचत ही कमाई है।" },
+    {
+        "en": "Don't put all your eggs in one basket.",
+        "hi": "अपना सब कुछ एक ही जगह मत लगाओ।"
+    },
+    {
+        "en": "The grass is always greener on the other side.",
+        "hi": "दूर के ढोल सुहावने होते हैं।"
+    },
+    { "en": "When in Rome, do as the Romans do.", "hi": "जैसा देश वैसा भेस।" },
+    {
+        "en": "You can lead a horse to water, but you can't make him drink.",
+        "hi": "आप किसी को कुछ करने के लिए मजबूर नहीं कर सकते।"
+    },
+    {
+        "en": "A watched pot never boils.",
+        "hi": "किसी काम पर लगातार ध्यान देने से वह धीमा लगता है।"
+    },
+    { "en": "Better late than never.", "hi": "कभी न होने से देर भली।" },
+    { "en": "Curiosity killed the cat.", "hi": "अधिक जिज्ञासा हानिकारक होती है।" },
+    { "en": "He's such a drama queen.", "hi": "वह तो बस नौटंकी करता रहता है।" },
+    { "en": "That's so fetch!", "hi": "यह तो बहुत अच्छा है!" },
+    {
+        "en": "I'm totally stoked about the concert.",
+        "hi": "मैं कॉन्सर्ट के लिए बहुत उत्साहित हूँ।"
+    },
+    { "en": "She threw some shade at him.", "hi": "उसने उसकी बुराई की।" },
+    {
+        "en": "He's salty about not getting the promotion.",
+        "hi": "वह प्रमोशन न मिलने से नाराज़ है।"
+    },
+    {
+        "en": "Let's Netflix and chill.",
+        "hi": "चलो साथ में फिल्म देखते हैं और आराम करते हैं।"
+    },
+    { "en": "That's my jam!", "hi": "यह मुझे बहुत पसंद है!" },
+    { "en": "He's low-key a genius.", "hi": "वह अंदर ही अंदर एक जीनियस है।" },
+    {
+        "en": "I'm high-key annoyed right now.",
+        "hi": "मैं इस समय बहुत ज़्यादा परेशान हूँ।"
+    },
+    { "en": "She's a total badass.", "hi": "वह बहुत दबंग है।" },
+    { "en": "Don't be a basic.", "hi": "साधारण मत बनो।" },
+    { "en": "He's ghosting me.", "hi": "वह मुझसे अचानक संपर्क तोड़ रहा है।" },
+    { "en": "That's so cringe.", "hi": "यह बहुत शर्मनाक है।" },
+    {
+        "en": "I'm feeling boujee today.",
+        "hi": "आज मैं थोड़ा ठाठ-बाट महसूस कर रहा हूँ।"
+    },
+    { "en": "He's a snack.", "hi": "वह बहुत आकर्षक है।" },
+    { "en": "Let's get this bread.", "hi": "चलो पैसे कमाते हैं।" },
+    { "en": "She's my ride or die.", "hi": "वह मेरी हर सुख-दुख की साथी है।" },
+    { "en": "He's such a simp.", "hi": "वह किसी के लिए बहुत ज़्यादा उत्सुक है।" },
+    { "en": "That's a mood.", "hi": "यह मेरी मनोदशा है।" },
+    {
+        "en": "I'm living my best life.",
+        "hi": "मैं अपनी ज़िंदगी का सबसे अच्छा समय जी रहा हूँ।"
+    },
+    { "en": "He's really extra.", "hi": "वह बहुत दिखावटी है।" },
+    { "en": "Spill the tea.", "hi": "गपशप बताओ।" },
+    { "en": "No cap.", "hi": "सच कह रहा हूँ।" },
+    { "en": "She's on fleek.", "hi": "वह बहुत अच्छी लग रही है।" },
+    { "en": "He's salty.", "hi": "वह चिढ़ा हुआ है।" },
+    { "en": "That's fire!", "hi": "यह बहुत शानदार है!" },
+    { "en": "I'm so down for that.", "hi": "मैं इसके लिए पूरी तरह से तैयार हूँ।" },
+    { "en": "He's a woke individual.", "hi": "वह एक जागरूक व्यक्ति है।" },
+    { "en": "She's slaying!", "hi": "वह कमाल कर रही है!" },
+    { "en": "That's sus.", "hi": "यह संदिग्ध है।" },
+    { "en": "I'm yeeting out of here.", "hi": "मैं यहाँ से जा रहा हूँ।" },
+    {
+        "en": "He's a total himbo.",
+        "hi": "वह दिखने में अच्छा लेकिन कम बुद्धिमान है।"
+    },
+    { "en": "She's serving looks.", "hi": "वह बहुत आकर्षक दिख रही है।" },
+    { "en": "Don't @ me.", "hi": "मुझे टैग मत करो।" },
+    { "en": "He's cancelled.", "hi": "उसका बहिष्कार किया जा रहा है।" },
+    { "en": "That's a big yikes.", "hi": "यह बहुत बुरा है।" },
+    {
+        "en": "I'm feeling myself today.",
+        "hi": "आज मैं खुद को बहुत अच्छा महसूस कर रहा हूँ।"
+    },
+    { "en": "He's a glow-up.", "hi": "उसमें बहुत सुधार आया है।" },
+    {
+        "en": "She's a Karen.",
+        "hi": "वह एक ऐसी महिला है जो हर बात पर शिकायत करती है।"
+    },
+    { "en": "That's a vibe.", "hi": "यह एक अच्छा माहौल है।" },
+    {
+        "en": "I'm stanning this group.",
+        "hi": "मैं इस समूह का बहुत बड़ा प्रशंसक हूँ।"
+    },
+    { "en": "He's a clout chaser.", "hi": "वह प्रसिद्धि पाने की कोशिश कर रहा है।" },
+    { "en": "She's a soft girl.", "hi": "वह कोमल और संवेदनशील है।" },
+    { "en": "That's a whole mood.", "hi": "यह पूरी तरह से मेरी मनोदशा है।" },
+    { "en": "I'm simping hard.", "hi": "मैं किसी के लिए बहुत ज़्यादा उत्सुक हूँ।" },
+    { "en": "He's a chad.", "hi": "वह आत्मविश्वास से भरा और आकर्षक पुरुष है।" },
+    { "en": "She's a baddie.", "hi": "वह आत्मविश्वास से भरी और आकर्षक महिला है।" },
+    { "en": "That's the tea.", "hi": "यह है असली बात।" },
+    { "en": "I'm finna go.", "hi": "मैं जाने वाला हूँ।" },
+    { "en": "He's boujee.", "hi": "वह दिखावटी है।" },
+    { "en": "She's a savage.", "hi": "वह बहुत निर्दयी है।" },
+    { "en": "That's a serve.", "hi": "यह बहुत प्रभावशाली है।" },
+    { "en": "I'm feeling zesty.", "hi": "मैं उत्साहित महसूस कर रहा हूँ।" },
+    { "en": "He's a stan.", "hi": "वह एक बहुत बड़ा प्रशंसक है।" },
+    { "en": "She's a queen.", "hi": "वह बहुत शानदार है।" },
+    { "en": "That's iconic.", "hi": "यह बहुत प्रसिद्ध है।" },
+    { "en": "What's cooking?", "hi": "क्या बन रहा है?" },
+    { "en": "Hang tight.", "hi": "थोड़ा रुको।" },
+    { "en": "Bless your heart.", "hi": "भगवान भला करे।" },
+    { "en": "That's sick!", "hi": "यह तो कमाल का है!" },
+    { "en": "I'm beat.", "hi": "मैं थक गया हूँ।" },
+    { "en": "Let's chill.", "hi": "चलो आराम करते हैं।" },
+    { "en": "You bet!", "hi": "ज़रूर!" },
+    { "en": "It cost an arm and a leg.", "hi": "यह बहुत महंगा पड़ा।" },
+    { "en": "He's a night owl.", "hi": "वह देर रात तक जागने वाला है।" },
+    { "en": "Cat got your tongue?", "hi": "क्या तुम्हारी ज़बान बंद हो गई है?" },
+    { "en": "That's a load off my mind.", "hi": "यह सुनकर मुझे शांति मिली।" },
+    { "en": "Butter someone up.", "hi": "किसी को मक्खन लगाना।" },
+    { "en": "Call it quits.", "hi": "छोड़ देना।" },
+    { "en": "Get off my back!", "hi": "मेरा पीछा छोड़ो!" },
+    { "en": "Hold your horses.", "hi": "थोड़ा रुको।" },
+    { "en": "Keep your fingers crossed.", "hi": "उम्मीद रखना।" },
+    { "en": "Miss the boat.", "hi": "मौका चूक जाना।" },
+    { "en": "On the ball.", "hi": "चुस्त और तैयार।" },
+    { "en": "Pull yourself together.", "hi": "अपने आप को संभालो।" },
+    { "en": "Speak of the devil!", "hi": "शैतान का नाम लिया और शैतान हाज़िर!" },
+    {
+        "en": "He's got his head in the clouds.",
+        "hi": "वह ख्यालों की दुनिया में खोया रहता है।"
+    },
+    {
+        "en": "Don't bite the hand that feeds you.",
+        "hi": "जिस थाली में खाते हो, उसमें छेद मत करो।"
+    },
+    {
+        "en": "I'm feeling a bit spaced out today.",
+        "hi": "आज मेरा ध्यान थोड़ा भटक रहा है।"
+    },
+    { "en": "Let's take a rain check.", "hi": "चलो इसे फिर कभी करते हैं।" },
+    {
+        "en": "That's a moot point.",
+        "hi": "यह एक विवादास्पद मुद्दा है जिस पर बहस करने का कोई फायदा नहीं।"
+    },
+    { "en": "It's like pulling teeth.", "hi": "यह बहुत मुश्किल काम है।" },
+    {
+        "en": "He's a diamond in the rough.",
+        "hi": "उसमें प्रतिभा है, पर उसे तराशने की ज़रूरत है।"
+    },
+    {
+        "en": "I'm feeling on edge.",
+        "hi": "मैं थोड़ा घबराया हुआ महसूस कर रहा हूँ।"
+    },
+    {
+        "en": "Let's agree to disagree.",
+        "hi": "चलो इस बात पर सहमत होते हैं कि हम असहमत हैं।"
+    },
+    { "en": "Don't add fuel to the fire.", "hi": "आग में घी मत डालो।" },
+    { "en": "He's a busy bee.", "hi": "वह बहुत व्यस्त रहता है।" },
+    { "en": "Let's get down and dirty.", "hi": "चलो सीधे काम पर लग जाते हैं।" },
+    { "en": "That's a long shot.", "hi": "उसकी संभावना बहुत कम है।" },
+    { "en": "It's a slippery slope.", "hi": "यह एक खतरनाक राह है।" },
+    { "en": "He's a lone wolf.", "hi": "वह अकेला रहना पसंद करता है।" },
+    {
+        "en": "I'm feeling a bit out of sorts.",
+        "hi": "मैं थोड़ा असहज महसूस कर रहा हूँ।"
+    },
+    { "en": "Let's play it by ear.", "hi": "चलो देखते हैं आगे क्या होता है।" },
+    {
+        "en": "That's a tough pill to swallow.",
+        "hi": "यह स्वीकार करना मुश्किल है।"
+    },
+    { "en": "Don't jump the gun.", "hi": "जल्दबाजी मत करो।" },
+    { "en": "He's a walking encyclopedia.", "hi": "उसे बहुत ज्ञान है।" },
+    {
+        "en": "I'm feeling a bit off today.",
+        "hi": "आज मेरी तबीयत थोड़ी ठीक नहीं है।"
+    },
+    { "en": "Let's touch base later.", "hi": "चलो बाद में बात करते हैं।" },
+    { "en": "That's a wake-up call.", "hi": "यह एक चेतावनी है।" },
+    {
+        "en": "It's a win-win situation.",
+        "hi": "यह दोनों पक्षों के लिए फायदेमंद है।"
+    },
+    { "en": "He's a chatterbox.", "hi": "वह बहुत बातूनी है।" },
+    {
+        "en": "I'm feeling a bit drained.",
+        "hi": "मैं थोड़ा थका हुआ महसूस कर रहा हूँ।"
+    },
+    { "en": "Let's table this for now.", "hi": "चलो इसे अभी के लिए रोक देते हैं।" },
+    { "en": "That's a can of worms.", "hi": "यह एक जटिल समस्या है।" },
+    { "en": "Don't rock the boat.", "hi": "हालात मत बिगाड़ो।" },
+    { "en": "He's a go-getter.", "hi": "वह मेहनती और महत्वाकांक्षी है।" },
+    {
+        "en": "I'm feeling a bit under pressure.",
+        "hi": "मैं थोड़ा दबाव महसूस कर रहा हूँ।"
+    },
+    { "en": "Let's wrap things up.", "hi": "चलो सब कुछ समेटते हैं।" },
+    { "en": "That's a ballpark figure.", "hi": "यह एक अनुमानित आंकड़ा है।" },
+    { "en": "It's a learning curve.", "hi": "यह सीखने की प्रक्रिया है।" },
+    { "en": "He's a mover and shaker.", "hi": "वह प्रभावशाली व्यक्ति है।" },
+    {
+        "en": "I'm feeling a bit overwhelmed.",
+        "hi": "मैं थोड़ा अभिभूत महसूस कर रहा हूँ।"
+    },
+    {
+        "en": "Let's circle back to this later.",
+        "hi": "चलो बाद में इस पर फिर से बात करते हैं।"
+    },
+    { "en": "That's a game changer.", "hi": "यह सब कुछ बदल देगा।" },
+    { "en": "He's an early bird.", "hi": "वह सुबह जल्दी उठने वाला है।" },
+    {
+        "en": "I'm feeling a bit restless.",
+        "hi": "मैं थोड़ा बेचैन महसूस कर रहा हूँ।"
+    },
+    { "en": "Let's brainstorm some ideas.", "hi": "चलो कुछ विचार मंथन करते हैं।" },
+    { "en": "That's a red flag.", "hi": "यह खतरे का संकेत है।" },
+    { "en": "It's a tough crowd.", "hi": "यह मुश्किल लोगों का समूह है।" },
+    { "en": "He's a smooth talker.", "hi": "वह मीठी-मीठी बातें करने वाला है।" },
+    {
+        "en": "I'm feeling a bit wired.",
+        "hi": "मैं थोड़ा उत्तेजित महसूस कर रहा हूँ।"
+    },
+    { "en": "Let's get together sometime.", "hi": "चलो कभी मिलते हैं।" },
+    { "en": "That's a golden opportunity.", "hi": "यह एक सुनहरा अवसर है।" },
+    { "en": "Don't rain on my parade.", "hi": "मेरा मज़ा किरकिरा मत करो।" },
+    { "en": "He's a workaholic.", "hi": "वह काम के प्रति बहुत समर्पित है।" },
+    { "en": "I'm feeling a bit foggy.", "hi": "मेरा दिमाग थोड़ा धुंधला है।" },
+    { "en": "Let's think outside the box.", "hi": "चलो कुछ अलग तरह से सोचते हैं।" },
+    { "en": "That's a grey area.", "hi": "यह अस्पष्ट क्षेत्र है।" },
+    { "en": "It's a long haul.", "hi": "यह एक लंबी प्रक्रिया है।" },
+    { "en": "He's a team player.", "hi": "वह टीम में मिलकर काम करने वाला है।" },
+    {
+        "en": "I'm feeling a bit zonked.",
+        "hi": "मैं बहुत थका हुआ महसूस कर रहा हूँ।"
+    },
+    {
+        "en": "Let's play devil's advocate.",
+        "hi": "चलो विपरीत दृष्टिकोण से बहस करते हैं।"
+    },
+    { "en": "That's a silver lining.", "hi": "यह मुश्किल में भी एक अच्छी बात है।" },
+    {
+        "en": "Don't bite off more than you can chew.",
+        "hi": "अपनी क्षमता से ज़्यादा काम मत लो।"
+    },
+    { "en": "He's a breath of fresh air.", "hi": "वह ताजगी का एहसास कराता है।" },
+    {
+        "en": "I'm feeling a bit jittery.",
+        "hi": "मैं थोड़ा घबराया हुआ महसूस कर रहा हूँ।"
+    },
+    {
+        "en": "Let's get on the same page.",
+        "hi": "चलो एक ही बात पर सहमत होते हैं।"
+    },
+    { "en": "That's a tough break.", "hi": "यह बहुत बुरा हुआ।" },
+    { "en": "It's a vicious cycle.", "hi": "यह एक दुष्चक्र है।" },
+    { "en": "He's a man of few words.", "hi": "वह कम बोलने वाला है।" },
+    {
+        "en": "I'm feeling a bit spaced out.",
+        "hi": "आज मेरा ध्यान थोड़ा भटक रहा है।"
+    },
+    { "en": "Let's cut to the chase.", "hi": "सीधे मुद्दे पर आते हैं।" },
+    { "en": "That's a recipe for disaster.", "hi": "यह बर्बादी का कारण बनेगा।" },
+    {
+        "en": "Don't beat yourself up about it.",
+        "hi": "इसके बारे में खुद को दोष मत दो।"
+    },
+    { "en": "He's a people person.", "hi": "वह लोगों से आसानी से घुलमिल जाता है।" },
+    {
+        "en": "I'm feeling a bit drained.",
+        "hi": "मैं थोड़ा थका हुआ महसूस कर रहा हूँ।"
+    },
+    { "en": "Let's think big.", "hi": "चलो बड़ा सोचते हैं।" },
+    { "en": "That's a stepping stone.", "hi": "यह एक शुरुआती कदम है।" },
+    { "en": "It's a whole new ballgame.", "hi": "यह बिल्कुल नई स्थिति है।" },
+    { "en": "He's a trendsetter.", "hi": "वह नए चलन शुरू करने वाला है।" },
+    {
+        "en": "I'm feeling a bit out of my depth.",
+        "hi": "मुझे यह थोड़ा मुश्किल लग रहा है।"
+    },
+    { "en": "Let's keep it simple.", "hi": "चलो इसे सरल रखते हैं।" },
+    { "en": "Don't get your hopes up too high.", "hi": "ज़्यादा उम्मीदें मत रखो।" },
+    { "en": "Let's go with the flow.", "hi": "चलो जैसे चल रहा है, चलने देते हैं।" },
+    { "en": "That's a real bummer.", "hi": "यह सच में निराशाजनक है।" },
+    { "en": "The whole nine yards.", "hi": "पूरी तरह से।" },
+    {
+        "en": "Bite off more than you can chew.",
+        "hi": "अपनी क्षमता से ज़्यादा काम लेना।"
+    },
+    { "en": "Go the extra mile.", "hi": "अतिरिक्त प्रयास करना।" },
+    { "en": "Hit the nail on the head.", "hi": "सही बात कहना।" },
+    { "en": "Jump on the bandwagon.", "hi": "देखा-देखी करना।" },
+    { "en": "Leave no stone unturned.", "hi": "हर संभव प्रयास करना।" },
+    { "en": "Make a long story short.", "hi": "संक्षेप में कहना।" },
+    { "en": "On the same page.", "hi": "एक ही राय होना।" },
+    { "en": "Play it by ear.", "hi": "बिना तैयारी के काम करना।" },
+    { "en": "Take a rain check.", "hi": "फिर कभी करना।" },
+    {
+        "en": "He's pulling my leg, isn't he?",
+        "hi": "वह मेरी टांग खींच रहा है, है ना?"
+    },
+    {
+        "en": "I'm feeling a bit out of sync with everyone today.",
+        "hi": "आज मैं थोड़ा सबसे अलग महसूस कर रहा हूँ।"
+    },
+    {
+        "en": "Let's not beat around the bush and get straight to the point.",
+        "hi": "चलो गोलमोल बातें नहीं करते और सीधे मुद्दे पर आते हैं।"
+    },
+    {
+        "en": "That situation was a real Catch-22; whatever we did, we'd be in trouble.",
+        "hi": "वह स्थिति सच में एक कैच-22 थी; हम कुछ भी करते, मुसीबत में पड़ते।"
+    },
+    {
+        "en": "She's got a bee in her bonnet about the new regulations.",
+        "hi": "नई नियमों को लेकर उसके दिमाग में कुछ परेशानी चल रही है।"
+    },
+    {
+        "en": "He's always trying to cut corners, which often leads to more problems down the line.",
+        "hi": "वह हमेशा शॉर्टकट मारने की कोशिश करता है, जिससे अक्सर आगे चलकर और ज़्यादा समस्याएँ आती हैं।"
+    },
+    {
+        "en": "If you don't get your ducks in a row, this project is going to fall apart.",
+        "hi": "अगर तुम सब कुछ ठीक से व्यवस्थित नहीं करोगे, तो यह प्रोजेक्ट बिगड़ जाएगा।"
+    },
+    {
+        "en": "Despite the initial setbacks, they managed to turn the tables and come out on top.",
+        "hi": "शुरुआती झटकों के बावजूद, वे स्थिति पलटने और शीर्ष पर आने में कामयाब रहे।"
+    },
+    {
+        "en": "I'm walking on eggshells around him because he's been so touchy lately.",
+        "hi": "मैं उसके आसपास बहुत सावधानी से पेश आ रहा हूँ क्योंकि वह आजकल बहुत चिड़चिड़ा है।"
+    },
+    {
+        "en": "Let's just agree to disagree and move on to a different topic.",
+        "hi": "चलो बस इस बात पर असहमत होते हैं और किसी और विषय पर चलते हैं।"
+    },
+    {
+        "en": "He spilled the beans about the surprise party, so now it's not a surprise anymore.",
+        "hi": "उसने सरप्राइज पार्टी के बारे में सब बता दिया, इसलिए अब यह सरप्राइज नहीं रही।"
+    },
+    {
+        "en": "She's burning the midnight oil to finish the report before the deadline.",
+        "hi": "वह डेडलाइन से पहले रिपोर्ट खत्म करने के लिए देर रात तक काम कर रही है।"
+    },
+    {
+        "en": "Don't put all your eggs in one basket; it's always good to have a backup plan.",
+        "hi": "अपना सब कुछ एक ही जगह मत लगाओ; हमेशा एक बैकअप योजना रखना अच्छा होता है।"
+    },
+    {
+        "en": "He's been feeling under the weather for a few days, so he decided to stay home.",
+        "hi": "वह कुछ दिनों से ठीक महसूस नहीं कर रहा था, इसलिए उसने घर पर रहने का फैसला किया।"
+    },
+    {
+        "en": "They decided to bury the hatchet after years of feuding.",
+        "hi": "उन्होंने सालों की दुश्मनी के बाद सुलह करने का फैसला किया।"
+    },
+    {
+        "en": "It's a dog-eat-dog world out there; you have to be tough to survive.",
+        "hi": "बाहर बहुत प्रतिस्पर्धा है; जीवित रहने के लिए आपको मजबूत होना होगा।"
+    },
+    {
+        "en": "He's a jack of all trades but master of none.",
+        "hi": "वह सब काम कर लेता है लेकिन किसी में माहिर नहीं है।"
+    },
+    {
+        "en": "I'm at my wit's end trying to solve this problem.",
+        "hi": "मैं इस समस्या को हल करने की कोशिश करते-करते परेशान हो गया हूँ।"
+    },
+    {
+        "en": "Let's get our ducks in a row before we launch the new product.",
+        "hi": "नया उत्पाद लॉन्च करने से पहले चलो सब कुछ व्यवस्थित कर लेते हैं।"
+    },
+    {
+        "en": "That's a tough act to follow after such an amazing performance.",
+        "hi": "इतने शानदार प्रदर्शन के बाद यह एक मुश्किल काम है।"
+    },
+    {
+        "en": "He's always trying to have his cake and eat it too.",
+        "hi": "वह हमेशा दोनों तरफ से फायदा उठाना चाहता है।"
+    },
+    {
+        "en": "I'm feeling a bit out of my element in this new role.",
+        "hi": "मैं इस नई भूमिका में थोड़ा असहज महसूस कर रहा हूँ।"
+    },
+    {
+        "en": "Let's not jump the gun and wait for all the information before making a decision.",
+        "hi": "चलो जल्दबाजी नहीं करते और फैसला करने से पहले सारी जानकारी का इंतजार करते हैं।"
+    },
+    {
+        "en": "That project turned out to be a real white elephant; it cost a lot but had no real value.",
+        "hi": "वह प्रोजेक्ट सच में एक बेकार की चीज साबित हुआ; उसमें बहुत खर्च आया लेकिन उसका कोई वास्तविक मूल्य नहीं था।"
+    },
+    {
+        "en": "She's been bending over backwards to help everyone.",
+        "hi": "वह सबकी मदद करने के लिए बहुत प्रयास कर रही है।"
+    },
+    {
+        "en": "He's a dark horse in this competition; no one expects him to win.",
+        "hi": "वह इस प्रतियोगिता में छुपा रुस्तम है; किसी को उससे जीतने की उम्मीद नहीं है।"
+    },
+    {
+        "en": "I'm feeling a bit under the weather, so I might take it easy today.",
+        "hi": "मेरी तबीयत थोड़ी नासाज है, इसलिए शायद मैं आज आराम करूँ।"
+    },
+    {
+        "en": "Let's call a spade a spade and be honest about the situation.",
+        "hi": "चलो सीधी बात करते हैं और स्थिति के बारे में ईमानदार रहते हैं।"
+    },
+    {
+        "en": "That was a wild goose chase; we spent hours looking for something that wasn't there.",
+        "hi": "वह एक बेकार की खोज थी; हमने घंटों तक ऐसी चीज की तलाश में बिताए जो वहाँ थी ही नहीं।"
+    },
+    {
+        "en": "He's a man of his word; if he says he'll do something, he'll do it.",
+        "hi": "वह अपनी बात का पक्का है; अगर वह कहता है कि वह कुछ करेगा, तो वह करेगा।"
+    },
+    {
+        "en": "I'm feeling a bit peckish; maybe we should grab a snack.",
+        "hi": "मुझे थोड़ी भूख लगी है; शायद हमें कुछ नाश्ता कर लेना चाहिए।"
+    },
+    {
+        "en": "Let's hit the hay; it's getting late.",
+        "hi": "चलो सोने चलते हैं; बहुत देर हो रही है।"
+    },
+    {
+        "en": "That car was a real steal; he got it for a fraction of its actual price.",
+        "hi": "वह कार सच में बहुत सस्ती थी; उसने उसे उसकी असली कीमत के एक छोटे से हिस्से में खरीदा।"
+    },
+    {
+        "en": "Don't bite off more than you can chew, especially with such a complex task.",
+        "hi": "अपनी क्षमता से ज़्यादा काम मत लो, खासकर इतने जटिल काम के साथ।"
+    },
+    {
+        "en": "He's a big fish in a small pond here, but in the larger industry, he's not as significant.",
+        "hi": "यहाँ वह छोटे लोगों में बड़ा आदमी है, लेकिन बड़े उद्योग में वह उतना महत्वपूर्ण नहीं है।"
+    },
+    {
+        "en": "I'm caught between a rock and a hard place; I don't know which option to choose.",
+        "hi": "मैं मुश्किल में हूँ; मुझे नहीं पता कि कौन सा विकल्प चुनना है।"
+    },
+    {
+        "en": "Let's cut to the chase; what's the bottom line?",
+        "hi": "सीधे मुद्दे पर आते हैं; आखिर बात क्या है?"
+    },
+    {
+        "en": "That's a long shot, but it's worth trying.",
+        "hi": "उसकी संभावना बहुत कम है, लेकिन कोशिश करने लायक है।"
+    },
+    {
+        "en": "It's all Greek to me; I have no idea what you're talking about.",
+        "hi": "यह मेरी समझ से परे है; मुझे कोई अंदाज़ा नहीं है कि तुम क्या कह रहे हो।"
+    },
+    {
+        "en": "He's a dark horse in the race for the promotion.",
+        "hi": "वह प्रमोशन की दौड़ में छुपा रुस्तम है।"
+    },
+    {
+        "en": "I'm feeling on top of the world after hearing the good news.",
+        "hi": "अच्छी खबर सुनने के बाद मैं बहुत खुश महसूस कर रहा हूँ।"
+    },
+    {
+        "en": "Let's play it by ear and see how things develop.",
+        "hi": "चलो देखते हैं आगे क्या होता है और उसके अनुसार काम करते हैं।"
+    },
+    {
+        "en": "That's a tough pill to swallow, but we have to accept it.",
+        "hi": "यह मानना मुश्किल है, लेकिन हमें इसे स्वीकार करना होगा।"
+    },
+    {
+        "en": "Don't put all your eggs in one basket when it comes to investments.",
+        "hi": "जब निवेश की बात आती है तो अपना सब कुछ एक ही जगह मत लगाओ।"
+    },
+    {
+        "en": "He's a wolf in sheep's clothing; don't be fooled by his innocent appearance.",
+        "hi": "वह धोखेबाज है; उसकी मासूमियत से धोखा मत खाना।"
+    },
+    {
+        "en": "I'm feeling a bit under the weather; I think I might have caught a cold.",
+        "hi": "मेरी तबीयत थोड़ी खराब लग रही है; मुझे लगता है कि मुझे सर्दी लग गई है।"
+    },
+    {
+        "en": "Let's get this show on the road; we're already running late.",
+        "hi": "चलो शुरू करते हैं; हमें पहले ही देर हो रही है।"
+    },
+    {
+        "en": "That's a red herring; it's meant to distract us from the real issue.",
+        "hi": "यह भटकाने वाली बात है; इसका मकसद हमें असली मुद्दे से ध्यान हटाना है।"
+    },
+    {
+        "en": "It's a vicious cycle; one problem leads to another.",
+        "hi": "यह एक दुष्चक्र है; एक समस्या दूसरी समस्या को जन्म देती है।"
+    },
+    {
+        "en": "He's a yes-man; he agrees with everything the boss says.",
+        "hi": "वह हर बात में हाँ में हाँ मिलाता है; वह बॉस की हर बात से सहमत होता है।"
+    },
+    {
+        "en": "I'm feeling a bit out of sorts; I can't quite put my finger on it.",
+        "hi": "मैं थोड़ा परेशान महसूस कर रहा हूँ; मैं ठीक से बता नहीं सकता क्या है।"
+    },
+    {
+        "en": "Let's bury the hatchet and move forward peacefully.",
+        "hi": "चलो दुश्मनी भुला देते हैं और शांति से आगे बढ़ते हैं।"
+    },
+    {
+        "en": "That old car is a real white elephant; it's expensive to maintain and doesn't get much use.",
+        "hi": "वह पुरानी कार सच में एक बेकार की चीज है; उसका रखरखाव महंगा है और वह ज़्यादा इस्तेमाल नहीं होती।"
+    },
+    {
+        "en": "Don't count your chickens before they hatch; anything can happen.",
+        "hi": "सपने सच होने से पहले उन पर भरोसा मत करो; कुछ भी हो सकता है।"
+    },
+    {
+        "en": "He's a wet blanket; he always ruins the fun.",
+        "hi": "वह मजा किरकिरा करने वाला है; वह हमेशा मज़ा खराब कर देता है।"
+    },
+    {
+        "en": "I'm feeling a bit off-color today; I think I need some rest.",
+        "hi": "आज मेरी तबीयत थोड़ी ठीक नहीं है; मुझे लगता है मुझे आराम की ज़रूरत है।"
+    },
+    {
+        "en": "Let's call a spade a spade and address the real issues.",
+        "hi": "चलो सीधी बात करते हैं और असली मुद्दों का समाधान करते हैं।"
+    },
+    {
+        "en": "That was a wild goose chase; we ended up nowhere.",
+        "hi": "वह एक बेकार की खोज थी; हम कहीं नहीं पहुँचे।"
+    },
+    {
+        "en": "It's a dog-eat-dog world, especially in the competitive job market.",
+        "hi": "यह बहुत प्रतिस्पर्धी दुनिया है, खासकर प्रतिस्पर्धी नौकरी बाजार में।"
+    },
+    {
+        "en": "He's a jack-of-all-trades, so he can probably fix it.",
+        "hi": "वह सब काम कर लेता है, इसलिए शायद वह इसे ठीक कर देगा।"
+    },
+    {
+        "en": "I'm feeling a bit down in the dumps today for no particular reason.",
+        "hi": "आज मैं बिना किसी खास कारण के थोड़ा उदास महसूस कर रहा हूँ।"
+    },
+    {
+        "en": "Let's clear the air and talk about what's really bothering us.",
+        "hi": "चलो गलतफहमी दूर करते हैं और बात करते हैं कि हमें वास्तव में क्या परेशान कर रहा है।"
+    },
+    {
+        "en": "That's a tall order; I'm not sure if we can achieve that.",
+        "hi": "यह मुश्किल काम है; मुझे नहीं पता कि क्या हम उसे हासिल कर सकते हैं।"
+    },
+    {
+        "en": "Don't put off until tomorrow what you can do today; procrastination is the thief of time.",
+        "hi": "जो काम आज कर सकते हो, उसे कल पर मत टालो; टालमटोल समय का चोर है।"
+    },
+    {
+        "en": "He's a rolling stone; he never stays in one place for too long.",
+        "hi": "वह एक जगह नहीं टिकता; वह कभी भी एक जगह पर ज़्यादा देर तक नहीं रहता।"
+    },
+    {
+        "en": "I'm feeling a bit under the weather; I hope it's nothing serious.",
+        "hi": "मेरी तबीयत थोड़ी खराब है; मुझे उम्मीद है कि यह कुछ गंभीर नहीं है।"
+    },
+    {
+        "en": "Let's go Dutch; everyone pays for their own meal.",
+        "hi": "चलो अपना-अपना खर्चा बाँट लेते हैं; हर कोई अपने खाने का भुगतान करेगा।"
+    },
+    {
+        "en": "That's a shot in the dark, but it's worth a try.",
+        "hi": "यह बिना सोचे-समझे किया गया काम है, लेकिन कोशिश करने लायक है।"
+    },
+    {
+        "en": "It's a double-edged sword; it has both advantages and disadvantages.",
+        "hi": "यह दोधारी तलवार है; इसके फायदे और नुकसान दोनों हैं।"
+    },
+    {
+        "en": "He's a loose cannon; you never know what he's going to do next.",
+        "hi": "वह अनियंत्रित है; आपको कभी नहीं पता चलेगा कि वह आगे क्या करने वाला है।"
+    },
+    {
+        "en": "I'm feeling a bit out of it today; I didn't sleep well last night.",
+        "hi": "आज मैं थोड़ा सुस्त महसूस कर रहा हूँ; मैं कल रात अच्छी तरह से नहीं सोया।"
+    },
+    {
+        "en": "Let's get our ducks in a row before the meeting starts.",
+        "hi": "बैठक शुरू होने से पहले चलो सब कुछ व्यवस्थित कर लेते हैं।"
+    },
+    {
+        "en": "That was a slap in the face; I didn't expect such harsh criticism.",
+        "hi": "यह अपमानजनक था; मुझे इतनी कड़ी आलोचना की उम्मीद नहीं थी।"
+    },
+    {
+        "en": "Don't make a mountain out of a molehill; it's not that big of a deal.",
+        "hi": "बात का बतंगड़ मत बनाओ; यह इतनी बड़ी बात नहीं है।"
+    },
+    {
+        "en": "He's a pain in the neck; he's always causing trouble.",
+        "hi": "वह सिरदर्द है; वह हमेशा परेशानी पैदा करता रहता है।"
+    },
+    {
+        "en": "I'm feeling a bit under the gun with all these deadlines.",
+        "hi": "मैं इन सभी डेडलाइन के साथ थोड़ा दबाव में महसूस कर रहा हूँ।"
+    },
+    {
+        "en": "Let's go the extra mile to ensure customer satisfaction.",
+        "hi": "चलो ग्राहक संतुष्टि सुनिश्चित करने के लिए अतिरिक्त प्रयास करते हैं।"
+    },
+    {
+        "en": "That's a steal of a deal; you should definitely go for it.",
+        "hi": "यह बहुत सस्ता सौदा है; तुम्हें निश्चित रूप से इसके लिए जाना चाहिए।"
+    },
+    {
+        "en": "It turned out to be a blessing in disguise; the initial problem led to a better outcome.",
+        "hi": "यह अप्रत्याशित रूप से अच्छा साबित हुआ; शुरुआती समस्या एक बेहतर परिणाम की ओर ले गई।"
+    },
+    {
+        "en": "He's such a couch potato; he spends all his time watching TV.",
+        "hi": "वह तो बस घर में पड़ा रहता है; वह अपना सारा समय टीवी देखने में बिताता है।"
+    },
+    {
+        "en": "I'm feeling a bit off-color; I think I need to rest and drink some fluids.",
+        "hi": "आज मेरी तबीयत थोड़ी ठीक नहीं है; मुझे लगता है मुझे आराम करने और कुछ तरल पदार्थ पीने की ज़रूरत है।"
+    },
+    {
+        "en": "Let's get our hands dirty and start working on this project.",
+        "hi": "चलो काम में लग जाते हैं और इस प्रोजेक्ट पर काम करना शुरू करते हैं।"
+    },
+    {
+        "en": "That was a bitter pill to swallow, but we had no other choice.",
+        "hi": "यह स्वीकार करना मुश्किल था, लेकिन हमारे पास कोई और विकल्प नहीं था।"
+    },
+    {
+        "en": "Don't burn your bridges; you might need those connections in the future.",
+        "hi": "अपने संबंध मत बिगाड़ो; तुम्हें भविष्य में उन कनेक्शनों की आवश्यकता हो सकती है।"
+    },
+    {
+        "en": "He's a chip off the old block; he's just like his father.",
+        "hi": "वह अपने माता-पिता जैसा है; वह बिल्कुल अपने पिता जैसा है।"
+    },
+    {
+        "en": "I'm feeling a bit blue today; I miss my family.",
+        "hi": "आज मैं थोड़ा उदास महसूस कर रहा हूँ; मुझे अपने परिवार की याद आ रही है।"
+    },
+    { "en": "Get real.", "hi": "असली बात करो।" },
+    { "en": "No biggie.", "hi": "कोई बड़ी बात नहीं।" },
+    { "en": "Suit yourself.", "hi": "जैसी तुम्हारी मर्जी।" },
+    { "en": "That's a wrap.", "hi": "बस हो गया।" },
+    { "en": "What a drag!", "hi": "कितनी बोरिंग बात है!" },
+    { "en": "You nailed it!", "hi": "तुमने कमाल कर दिया!" },
+    { "en": "Better safe than sorry.", "hi": "चूक से बचाव बेहतर।" },
+    { "en": "Give me a break!", "hi": "मुझे बख्शो!" },
+    { "en": "It's not my forte.", "hi": "यह मेरा काम नहीं है।" },
+    { "en": "Let's face it.", "hi": "चलो सच का सामना करते हैं।" },
+    { "en": "That's a tough one.", "hi": "यह मुश्किल है।" },
+    { "en": "What's the catch?", "hi": "इसमें क्या चाल है?" },
+    { "en": "You're telling me!", "hi": "तुम सही कह रहे हो!" },
+    { "en": "Couldn't be better.", "hi": "इससे बेहतर नहीं हो सकता।" },
+    { "en": "Easy does it.", "hi": "धीरे-धीरे करो।" },
+    { "en": "Get a grip.", "hi": "खुद को संभालो।" },
+    { "en": "I'm all ears.", "hi": "मैं ध्यान से सुन रहा हूँ।" },
+    { "en": "Long story short.", "hi": "संक्षेप में।" },
+    { "en": "No sweat.", "hi": "कोई परेशानी नहीं।" },
+    { "en": "That's the spirit!", "hi": "यह हुई ना बात!" },
+    { "en": "He's got a point.", "hi": "उसकी बात में दम है।" },
+    { "en": "I'm drawing a blank.", "hi": "मुझे कुछ याद नहीं आ रहा।" },
+    { "en": "Let's play it safe.", "hi": "चलो सुरक्षित खेलते हैं।" },
+    { "en": "That's beside the point.", "hi": "यह मुद्दे से अलग है।" },
+    { "en": "What's the deal with that?", "hi": "उसका क्या चक्कर है?" },
+    {
+        "en": "You're barking up the wrong tree.",
+        "hi": "तुम गलत जगह कोशिश कर रहे हो।"
+    },
+    {
+        "en": "A bird in the hand is worth two in the bush.",
+        "hi": "हाथ का कंगन क्या देखना।"
+    },
+    { "en": "Don't put the cart before the horse.", "hi": "उल्टा काम मत करो।" },
+    { "en": "Every dog has its day.", "hi": "सबका समय आता है।" },
+    { "en": "Look what the cat dragged in!", "hi": "यह कौन आ गया!" },
+    { "en": "That's a fishy story.", "hi": "यह कहानी संदिग्ध है।" },
+    { "en": "Water under the bridge.", "hi": "जो हो गया सो हो गया।" },
+    {
+        "en": "You can't have your cake and eat it too.",
+        "hi": "तुम दोनों नहीं पा सकते।"
+    },
+    { "en": "A leopard can't change its spots.", "hi": "आदत कभी नहीं बदलती।" },
+    {
+        "en": "Don't cry over spilt milk.",
+        "hi": "अब पछताए होत क्या जब चिड़िया चुग गई खेत।"
+    },
+    { "en": "Great minds think alike.", "hi": "समझदार लोग एक जैसा सोचते हैं।" },
+    {
+        "en": "The early bird gets the worm.",
+        "hi": "जल्दी करने वाले को फायदा होता है।"
+    },
+    {
+        "en": "When it rains, it pours.",
+        "hi": "जब मुसीबत आती है, तो सब तरफ से आती है।"
+    },
+    { "en": "You live and learn.", "hi": "ज़िंदगी सीख देती है।" },
+    { "en": "He's got sticky fingers.", "hi": "उसकी चोरी करने की आदत है।" },
+    { "en": "I'm in a tight spot.", "hi": "मैं मुश्किल में हूँ।" },
+    { "en": "Let's get the show on the road.", "hi": "चलो शुरू करते हैं।" },
+    { "en": "That's a hard pill to swallow.", "hi": "यह मानना मुश्किल है।" },
+    { "en": "What's eating you?", "hi": "तुम्हें क्या परेशान कर रहा है?" },
+    { "en": "You're pulling my chain.", "hi": "तुम मुझसे मजाक कर रहे हो।" },
+    { "en": "Beggars can't be choosers.", "hi": "मांगने वालों की पसंद नहीं होती।" },
+    { "en": "Give it your best shot.", "hi": "पूरी कोशिश करो।" },
+    { "en": "It takes two to tango.", "hi": "ताली दोनों हाथों से बजती है।" },
+    { "en": "Look before you leap.", "hi": "सोच समझकर कदम उठाओ।" },
+    { "en": "That's a moot point now.", "hi": "अब उस बात का कोई मतलब नहीं।" },
+    { "en": "What's the bottom line?", "hi": "आखिर बात क्या है?" },
+    { "en": "You've hit the jackpot!", "hi": "तुम्हारी तो लॉटरी लग गई!" },
+    {
+        "en": "Don't judge a book by its cover.",
+        "hi": "किसी को बाहरी रूप से मत आंकना।"
+    },
+    { "en": "Old habits die hard.", "hi": "पुरानी आदतें मुश्किल से छूटती हैं।" },
+    {
+        "en": "I'm feeling a bit under the weather today.",
+        "hi": "आज मेरी तबीयत थोड़ी नासाज है।"
+    },
+    {
+        "en": "It's always darkest before the dawn.",
+        "hi": "बुरा समय हमेशा अच्छे समय से पहले आता है।"
+    },
+    { "en": "Out of sight, out of mind.", "hi": "आँख ओझल, मन ओझल।" },
+    { "en": "The best of both worlds.", "hi": "दोनों तरफ से फायदा।" },
+    { "en": "I'm walking on air.", "hi": "मैं बहुत खुश हूँ।" },
+    { "en": "You've got another think coming.", "hi": "तुम गलत सोच रहे हो।" },
+    {
+        "en": "You can't make an omelet without breaking eggs.",
+        "hi": "कुछ पाने के लिए कुछ खोना पड़ता है।"
+    },
+    { "en": "That's a storm in a teacup.", "hi": "यह छोटी बात का बतंगड़ है।" },
+    { "en": "Honesty is the best policy.", "hi": "ईमानदारी सबसे अच्छी नीति है।" },
+    { "en": "It's the best of both worlds.", "hi": "दोनों तरफ से फायदा।" },
+    {
+        "en": "I'm just chilling at home, watching Netflix and doing nothing.",
+        "hi": "मैं बस घर पर चिल कर रहा हूँ, नेटफ्लिक्स देख रहा हूँ और कुछ नहीं कर रहा।"
+    },
+    {
+        "en": "She's such a drama queen; everything is a huge deal with her.",
+        "hi": "वह तो एकदम नौटंकी है; उसके लिए हर बात बहुत बड़ी होती है।"
+    },
+    {
+        "en": "He's really down to earth, despite being so famous.",
+        "hi": "इतना मशहूर होने के बावजूद, वह सच में बहुत ज़मीनी इंसान है।"
+    },
+    {
+        "en": "I can't even; this is just too much to handle.",
+        "hi": "मुझसे तो अब नहीं होगा; यह सब झेलना बहुत मुश्किल है।"
+    },
+    {
+        "en": "She's always throwing shade at everyone; so negative.",
+        "hi": "वह हमेशा सब पर कटाक्ष करती रहती है; बहुत नकारात्मक है।"
+    },
+    {
+        "en": "I'm feeling kind of blah today; no energy.",
+        "hi": "आज मैं थोड़ा उदास महसूस कर रहा हूँ; कोई ऊर्जा नहीं है।"
+    },
+    {
+        "en": "Let's bounce; this place is boring.",
+        "hi": "चलो चलते हैं; यह जगह उबाऊ है।"
+    },
+    {
+        "en": "He's living rent-free in my head; I can't stop thinking about it.",
+        "hi": "वह मेरे दिमाग में मुफ्त में रह रहा है; मैं इसके बारे में सोचना बंद नहीं कर सकता।"
+    },
+    {
+        "en": "That's cap; he's totally lying.",
+        "hi": "वह झूठ है; वह पूरी तरह से झूठ बोल रहा है।"
+    },
+    {
+        "en": "She's a real one; always there for her friends.",
+        "hi": "वह सच्ची दोस्त है; हमेशा अपने दोस्तों के लिए मौजूद रहती है।"
+    },
+    {
+        "en": "He's so extra; always doing the most unnecessary things.",
+        "hi": "वह बहुत ज़्यादा है; हमेशा सबसे अनावश्यक चीजें करता है।"
+    },
+    {
+        "en": "I'm just trying to stay in my lane and not get involved.",
+        "hi": "मैं बस अपनी हद में रहने और शामिल न होने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "That's the tea; now you know the gossip.",
+        "hi": "यह है असली बात; अब तुम्हें सारी गपशप पता है।"
+    },
+    {
+        "en": "He's such a mood; sometimes happy, sometimes sad.",
+        "hi": "उसका तो अलग ही मूड है; कभी खुश, कभी उदास।"
+    },
+    {
+        "en": "I'm trying to manifest good things into my life.",
+        "hi": "मैं अपने जीवन में अच्छी चीजों को आकर्षित करने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "That's a major glow-up; she looks amazing.",
+        "hi": "यह तो ज़बरदस्त बदलाव है; वह बहुत खूबसूरत लग रही है।"
+    },
+    {
+        "en": "He's always chasing clout; so desperate for attention.",
+        "hi": "वह हमेशा प्रसिद्धि के पीछे भागता रहता है; ध्यान पाने के लिए बहुत बेताब है।"
+    },
+    {
+        "en": "I'm just trying to keep it 100; being honest.",
+        "hi": "मैं बस सच बोल रहा हूँ; ईमानदार रह रहा हूँ।"
+    },
+    {
+        "en": "That's a vibe; I like the atmosphere here.",
+        "hi": "यह एक अच्छा माहौल है; मुझे यहाँ का वातावरण पसंद है।"
+    },
+    {
+        "en": "He's a snake; can't trust him at all.",
+        "hi": "वह एक साँप है; उस पर बिल्कुल भरोसा नहीं किया जा सकता।"
+    },
+    {
+        "en": "Let's link up later; we need to catch up.",
+        "hi": "चलो बाद में मिलते हैं; हमें बातचीत करनी है।"
+    },
+    {
+        "en": "That's a whole other level; way beyond what I expected.",
+        "hi": "यह तो बिल्कुल अलग स्तर का है; मेरी उम्मीद से कहीं ज़्यादा।"
+    },
+    {
+        "en": "He's such a soft boi; so gentle and sensitive.",
+        "hi": "वह तो एकदम नरम दिल का लड़का है; बहुत कोमल और संवेदनशील।"
+    },
+    {
+        "en": "I'm just trying to stay positive and keep my chin up.",
+        "hi": "मैं बस सकारात्मक रहने और हिम्मत बनाए रखने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "That's a big yikes; that's really embarrassing.",
+        "hi": "यह तो बहुत शर्मनाक है।"
+    },
+    {
+        "en": "I'm just trying to live my best life.",
+        "hi": "मैं बस अपनी ज़िंदगी का बेहतरीन तरीके से जीने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "That's a total mood killer; ruined the fun.",
+        "hi": "यह तो पूरी तरह से मूड खराब करने वाला था; मज़ा किरकिरा कर दिया।"
+    },
+    {
+        "en": "He's such a hypebeast; obsessed with trendy clothes.",
+        "hi": "वह तो एकदम फैशन का कीड़ा है; ट्रेंडी कपड़ों का दीवाना है।"
+    },
+    {
+        "en": "I'm just trying to keep it real; being authentic.",
+        "hi": "मैं बस असली रहने की कोशिश कर रहा हूँ; वास्तविक बन रहा हूँ।"
+    },
+    {
+        "en": "That's a major flex; showing off a lot.",
+        "hi": "यह तो बहुत बड़ा दिखावा है; बहुत ज़्यादा शेखी बघार रहा है।"
+    },
+    {
+        "en": "He's such a himbo; attractive but not very bright.",
+        "hi": "वह तो एकदम सीधा-सादा दिखने वाला है; आकर्षक लेकिन ज़्यादा बुद्धिमान नहीं।"
+    },
+    {
+        "en": "I'm just trying to go with the flow and see what happens.",
+        "hi": "मैं बस जैसा चल रहा है, चलने देने और देखने की कोशिश कर रहा हूँ कि क्या होता है।"
+    },
+    {
+        "en": "That's a whole vibe; I'm really feeling it.",
+        "hi": "यह तो कमाल का माहौल है; मैं इसे सच में महसूस कर रहा हूँ।"
+    },
+    {
+        "en": "He's such a boomer; stuck in old ways of thinking.",
+        "hi": "वह तो एकदम पुराने ख्यालों का आदमी है; सोचने के पुराने तरीकों में फंसा हुआ है।"
+    },
+    {
+        "en": "I'm just trying to get my life together.",
+        "hi": "मैं बस अपनी ज़िंदगी को व्यवस्थित करने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "He's such a stan; a really enthusiastic fan.",
+        "hi": "वह तो एकदम कट्टर प्रशंसक है; बहुत उत्साही फैन।"
+    },
+    {
+        "en": "That's a big no-no; definitely not allowed.",
+        "hi": "यह तो बिल्कुल मना है; बिल्कुल भी अनुमति नहीं है।"
+    },
+    {
+        "en": "He's such a woke person; very aware of social issues.",
+        "hi": "वह तो बहुत जागरूक व्यक्ति है; सामाजिक मुद्दों के बारे में बहुत सचेत है।"
+    },
+    {
+        "en": "I'm just trying to stay hydrated and drink more water.",
+        "hi": "मैं बस खुद को हाइड्रेटेड रखने और ज़्यादा पानी पीने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "That's a total facepalm moment; so embarrassing.",
+        "hi": "यह तो एकदम सिर पकड़ लेने वाला पल है; बहुत शर्मनाक।"
+    },
+    {
+        "en": "He's such a foodie; loves trying new restaurants.",
+        "hi": "वह तो एकदम खाने का शौकीन है; नए रेस्तरां आज़माना पसंद करता है।"
+    },
+    {
+        "en": "I'm just trying to get through the day.",
+        "hi": "मैं बस दिन गुजारने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "That's a silver bullet; a perfect solution.",
+        "hi": "यह तो अचूक उपाय है; एक एकदम सही समाधान।"
+    },
+    {
+        "en": "I'm just trying to focus on my goals.",
+        "hi": "मैं बस अपने लक्ष्यों पर ध्यान केंद्रित करने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "That's a mic drop moment; a perfect ending.",
+        "hi": "यह तो शानदार अंत है; एक एकदम सही समाप्ति।"
+    },
+    {
+        "en": "I'm just trying to be more mindful.",
+        "hi": "मैं बस और ज़्यादा जागरूक रहने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "That's a major key; an important piece of advice.",
+        "hi": "यह तो बहुत ज़रूरी बात है; सलाह का एक महत्वपूर्ण हिस्सा।"
+    },
+    {
+        "en": "He's such a gym rat; always working out.",
+        "hi": "वह तो एकदम जिम का कीड़ा है; हमेशा कसरत करता रहता है।"
+    },
+    {
+        "en": "I'm just trying to find my peace.",
+        "hi": "मैं बस अपनी शांति खोजने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "That's a game changer; it will change everything.",
+        "hi": "यह तो सब कुछ बदल देगा।"
+    },
+    {
+        "en": "He's such a bookworm; always reading.",
+        "hi": "वह तो एकदम किताबी कीड़ा है; हमेशा पढ़ता रहता है।"
+    },
+    {
+        "en": "That's a total vibe check; how are you feeling?",
+        "hi": "यह तो माहौल का जायज़ा है; तुम कैसा महसूस कर रहे हो?."
+    },
+    {
+        "en": "He's such a night owl; always up late.",
+        "hi": "वह तो रात का उल्लू है; हमेशा देर रात तक जागता रहता है।"
+    },
+    {
+        "en": "I'm just trying to learn and grow.",
+        "hi": "मैं बस सीखने और आगे बढ़ने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "That's a whole mood; I totally relate.",
+        "hi": "यह तो बिल्कुल मेरा हाल है; मैं पूरी तरह से समझ सकता हूँ।"
+    },
+    {
+        "en": "I'm just trying to be myself.",
+        "hi": "मैं बस खुद बनने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "He's such a drama llama; always causing trouble.",
+        "hi": "वह तो एकदम झगड़ालू है; हमेशा परेशानी खड़ी करता है।"
+    },
+    {
+        "en": "I'm just trying to take things one day at a time.",
+        "hi": "मैं बस एक-एक दिन करके चीज़ों को लेने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "That's a whole different ballgame; things are very different now.",
+        "hi": "यह तो बिल्कुल अलग मामला है; अब चीजें बहुत अलग हैं।"
+    },
+    {
+        "en": "I'm just trying to enjoy the moment.",
+        "hi": "मैं बस इस पल का आनंद लेने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "That's a major throwback; brings back old memories.",
+        "hi": "यह तो पुरानी यादें ताज़ा कर देने वाला है।"
+    },
+    {
+        "en": "He's such a chatterbox; talks incessantly.",
+        "hi": "वह तो बहुत बातूनी है; लगातार बोलता रहता है।"
+    },
+    {
+        "en": "I'm just trying to get some sleep.",
+        "hi": "मैं बस थोड़ी नींद लेने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "That's a tough crowd; difficult to please.",
+        "hi": "यह मुश्किल लोगों का समूह है; खुश करना मुश्किल है।"
+    },
+    {
+        "en": "He's such a people person; good at socializing.",
+        "hi": "वह लोगों से आसानी से घुलमिल जाता है।"
+    },
+    {
+        "en": "That's a golden opportunity; don't miss it.",
+        "hi": "यह एक सुनहरा अवसर है; इसे मत गंवाना।"
+    },
+    {
+        "en": "He's such a workaholic; always working.",
+        "hi": "वह काम के प्रति बहुत समर्पित है; हमेशा काम करता रहता है।"
+    },
+    {
+        "en": "I'm just trying to relax.",
+        "hi": "मैं बस आराम करने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "I'm just trying to be happy.",
+        "hi": "मैं बस खुश रहने की कोशिश कर रहा हूँ।"
+    },
+    {
+        "en": "I'm just winging it; I have no idea what I'm doing.",
+        "hi": "मैं बस अंदाज़े से काम कर रहा हूँ; मुझे कोई अंदाज़ा नहीं है कि मैं क्या कर रहा हूँ।"
+    },
+    {
+        "en": "She's a social butterfly; always flitting from party to party.",
+        "hi": "वह एक सामाजिक तितली है; हमेशा पार्टी से पार्टी में उड़ती रहती है।"
+    },
+    {
+        "en": "I'm feeling a bit spaced out today; I didn't get much sleep.",
+        "hi": "आज मैं थोड़ा खोया हुआ महसूस कर रहा हूँ; मुझे ज़्यादा नींद नहीं आई।"
+    },
+    {
+        "en": "Let's take a walk down memory lane; remember the good old days?",
+        "hi": "चलो पुरानी यादों में खो जाते हैं; पुराने अच्छे दिनों को याद करते हैं।"
+    },
+    {
+        "en": "That's a real Catch-22 situation; no matter what you do, you're stuck.",
+        "hi": "यह सच में एक कैच-22 स्थिति है; आप कुछ भी करें, आप फंसे हुए हैं।"
+    },
+    {
+        "en": "He's always trying to stir the pot; he loves to cause trouble.",
+        "hi": "वह हमेशा आग लगाने की कोशिश करता रहता है; उसे परेशानी पैदा करना पसंद है।"
+    },
+    {
+        "en": "I'm feeling a bit under the weather; I think I'm coming down with something.",
+        "hi": "मैं थोड़ा बीमार महसूस कर रहा हूँ; मुझे लगता है कि मैं कुछ पकड़ रहा हूँ।"
+    },
+    {
+        "en": "Let's get the ball rolling; we need to start this project.",
+        "hi": "चलो काम शुरू करते हैं; हमें इस प्रोजेक्ट को शुरू करने की ज़रूरत है।"
+    },
+    {
+        "en": "That's a real shot in the dark; we have no idea if it will work.",
+        "hi": "यह सच में अंधेरे में तीर चलाने जैसा है; हमें कोई अंदाज़ा नहीं है कि यह काम करेगा या नहीं।"
+    },
+    {
+        "en": "He's a bit of a lone wolf; he prefers to work alone.",
+        "hi": "वह थोड़ा अकेला रहने वाला है; वह अकेले काम करना पसंद करता है।"
+    },
+    {
+        "en": "Let's play it by ear; we'll see what happens and adjust accordingly.",
+        "hi": "चलो देखते हैं आगे क्या होता है; हम देखेंगे कि क्या होता है और उसके अनुसार काम करेंगे।"
+    },
+    {
+        "en": "That's a tough pill to swallow; it's hard to accept.",
+        "hi": "यह स्वीकार करना मुश्किल है; इसे स्वीकार करना मुश्किल है।"
+    },
+    {
+        "en": "Don't jump the gun; let's wait for all the information.",
+        "hi": "जल्दबाजी मत करो; चलो सारी जानकारी का इंतजार करते हैं।"
+    },
+    {
+        "en": "I'm feeling a bit off today; I think I need some rest.",
+        "hi": "आज मेरी तबीयत थोड़ी ठीक नहीं है; मुझे लगता है मुझे आराम की ज़रूरत है।"
+    },
+    {
+        "en": "That's a wake-up call; we need to take this seriously.",
+        "hi": "यह एक चेतावनी है; हमें इसे गंभीरता से लेने की ज़रूरत है।"
+    },
+    {
+        "en": "It's a win-win situation; everyone benefits.",
+        "hi": "यह दोनों पक्षों के लिए फायदेमंद है; हर किसी को फायदा होता है।"
+    },
+    {
+        "en": "He's a chatterbox; he never stops talking.",
+        "hi": "वह बहुत बातूनी है; वह कभी बात करना बंद नहीं करता।"
+    },
+    {
+        "en": "I'm feeling a bit drained; I need to recharge.",
+        "hi": "मैं थोड़ा थका हुआ महसूस कर रहा हूँ; मुझे रिचार्ज करने की ज़रूरत है।"
+    },
+    {
+        "en": "Let's table this for now; we can come back to it later.",
+        "hi": "चलो इसे अभी के लिए रोक देते हैं; हम बाद में इस पर वापस आ सकते हैं।"
+    },
+    {
+        "en": "That's a can of worms; it's a complicated problem.",
+        "hi": "यह एक जटिल समस्या है; यह एक जटिल समस्या है।"
+    },
+    {
+        "en": "Don't rock the boat; let's not cause any trouble.",
+        "hi": "हालात मत बिगाड़ो; चलो कोई परेशानी नहीं करते।"
+    },
+    {
+        "en": "He's a go-getter; he's always striving for success.",
+        "hi": "वह मेहनती है; वह हमेशा सफलता के लिए प्रयास करता रहता है।"
+    },
+    {
+        "en": "I'm feeling a bit under pressure; I need to relax.",
+        "hi": "मैं थोड़ा दबाव महसूस कर रहा हूँ; मुझे आराम करने की ज़रूरत है।"
+    },
+    {
+        "en": "Let's wrap things up; we're running out of time.",
+        "hi": "चलो सब कुछ समेटते हैं; हमारे पास समय कम है।"
+    },
+    {
+        "en": "That's a ballpark figure; it's just an estimate.",
+        "hi": "यह एक अनुमानित आंकड़ा है; यह सिर्फ एक अनुमान है।"
+    },
+    {
+        "en": "It's a learning curve; it takes time to master.",
+        "hi": "यह सीखने की प्रक्रिया है; इसे महारत हासिल करने में समय लगता है।"
+    },
+    {
+        "en": "He's a mover and shaker; he's an influential person.",
+        "hi": "वह प्रभावशाली व्यक्ति है; वह एक प्रभावशाली व्यक्ति है।"
+    },
+    {
+        "en": "I'm feeling a bit overwhelmed; I need to take a break.",
+        "hi": "मैं थोड़ा अभिभूत महसूस कर रहा हूँ; मुझे ब्रेक लेने की ज़रूरत है।"
+    },
+    {
+        "en": "Let's circle back to this later; we can discuss it further.",
+        "hi": "चलो बाद में इस पर फिर से बात करते हैं; हम इस पर और चर्चा कर सकते हैं।"
+    },
+    {
+        "en": "That's a game changer; it will revolutionize everything.",
+        "hi": "यह सब कुछ बदल देगा; यह सब कुछ बदल देगा।"
+    },
+    {
+        "en": "Don't bite off more than you can chew; be realistic about your abilities.",
+        "hi": "अपनी क्षमता से ज़्यादा काम मत लो; अपनी क्षमताओं के बारे में यथार्थवादी बनें।"
+    },
+    {
+        "en": "He's an early bird; he's always up before dawn.",
+        "hi": "वह सुबह जल्दी उठने वाला है; वह हमेशा भोर से पहले उठता है।"
+    },
+    {
+        "en": "I'm feeling a bit restless; I need to do something.",
+        "hi": "मैं थोड़ा बेचैन महसूस कर रहा हूँ; मुझे कुछ करने की ज़रूरत है।"
+    },
+    {
+        "en": "Let's brainstorm some ideas; we need to find a solution.",
+        "hi": "चलो कुछ विचार मंथन करते हैं; हमें एक समाधान खोजने की ज़रूरत है।"
+    },
+    {
+        "en": "That's a red flag; we need to be cautious.",
+        "hi": "यह खतरे का संकेत है; हमें सावधान रहने की ज़रूरत है।"
+    },
+    {
+        "en": "It's a tough crowd; they're hard to please.",
+        "hi": "यह मुश्किल लोगों का समूह है; उन्हें खुश करना मुश्किल है।"
+    },
+    {
+        "en": "He's a smooth talker; he can convince anyone of anything.",
+        "hi": "वह मीठी-मीठी बातें करने वाला है; वह किसी को भी किसी भी चीज़ के लिए मना सकता है।"
+    },
+    {
+        "en": "I'm feeling a bit wired; I have too much energy.",
+        "hi": "मैं थोड़ा उत्तेजित महसूस कर रहा हूँ; मेरे पास बहुत ज़्यादा ऊर्जा है।"
+    },
+    {
+        "en": "Let's get together sometime; we need to catch up.",
+        "hi": "चलो कभी मिलते हैं; हमें बातचीत करनी है।"
+    },
+    {
+        "en": "That's a golden opportunity; we can't afford to miss it.",
+        "hi": "यह एक सुनहरा अवसर है; हम इसे खोने का जोखिम नहीं उठा सकते।"
+    },
+    {
+        "en": "Don't rain on my parade; let me enjoy this moment.",
+        "hi": "मेरा मज़ा किरकिरा मत करो; मुझे इस पल का आनंद लेने दो।"
+    },
+    {
+        "en": "I'm feeling a bit foggy; I can't think straight.",
+        "hi": "मेरा दिमाग थोड़ा धुंधला है; मैं सीधे नहीं सोच सकता।"
+    },
+    {
+        "en": "Let's think outside the box; we need to find a creative solution.",
+        "hi": "चलो कुछ अलग तरह से सोचते हैं; हमें एक रचनात्मक समाधान खोजने की ज़रूरत है।"
+    },
+    {
+        "en": "It's a long haul; it will take a lot of time and effort.",
+        "hi": "यह एक लंबी प्रक्रिया है; इसमें बहुत समय और प्रयास लगेगा।"
+    },
+    {
+        "en": "I'm feeling a bit zonked; I'm completely exhausted.",
+        "hi": "मैं बहुत थका हुआ महसूस कर रहा हूँ; मैं पूरी तरह से थका हुआ हूँ।"
+    },
+    {
+        "en": "Let's play devil's advocate; we need to consider all sides of the issue.",
+        "hi": "चलो विपरीत दृष्टिकोण से बहस करते हैं; हमें मुद्दे के सभी पहलुओं पर विचार करने की ज़रूरत है।"
+    },
+    {
+        "en": "That's a silver lining; there's still some hope.",
+        "hi": "यह मुश्किल में भी एक अच्छी बात है; अभी भी कुछ उम्मीद है।"
+    },
+    {
+        "en": "He's a breath of fresh air; he's a welcome change.",
+        "hi": "वह ताजगी का एहसास कराता है; वह एक स्वागत योग्य बदलाव है।"
+    },
+    {
+        "en": "I'm feeling a bit jittery; I'm nervous and anxious.",
+        "hi": "मैं थोड़ा घबराया हुआ महसूस कर रहा हूँ; मैं घबराया हुआ और चिंतित हूँ।"
+    },
+    {
+        "en": "Let's get on the same page; we need to be in agreement.",
+        "hi": "चलो एक ही बात पर सहमत होते हैं; हमें सहमत होने की ज़रूरत है।"
+    },
+    {
+        "en": "It's a vicious cycle; it's hard to break free.",
+        "hi": "यह एक दुष्चक्र है; इससे बाहर निकलना मुश्किल है।"
+    },
+    {
+        "en": "He's a man of few words; he doesn't talk much.",
+        "hi": "वह कम बोलने वाला है; वह ज़्यादा बात नहीं करता।"
+    },
+    {
+        "en": "Let's cut to the chase; what's the main point?",
+        "hi": "सीधे मुद्दे पर आते हैं; मुख्य बात क्या है?"
+    },
+    {
+        "en": "That's a recipe for disaster; it's bound to go wrong.",
+        "hi": "यह बर्बादी का कारण बनेगा; यह गलत होने के लिए बाध्य है।"
+    },
+    {
+        "en": "Don't beat yourself up about it; it's not your fault.",
+        "hi": "इसके बारे में खुद को दोष मत दो; यह तुम्हारी गलती नहीं है।"
+    },
+    {
+        "en": "He's a people person; he's good with people.",
+        "hi": "वह लोगों से आसानी से घुलमिल जाता है; वह लोगों के साथ अच्छा है।"
+    },
+    {
+        "en": "Let's think big; we need to be ambitious.",
+        "hi": "चलो बड़ा सोचते हैं; हमें महत्वाकांक्षी होने की ज़रूरत है।"
+    },
+    {
+        "en": "That's a stepping stone; it's a step in the right direction.",
+        "hi": "यह एक शुरुआती कदम है; यह सही दिशा में एक कदम है।"
+    },
+    {
+        "en": "It's a whole new ballgame; things are completely different now.",
+        "hi": "यह बिल्कुल नई स्थिति है; अब चीजें पूरी तरह से अलग हैं।"
+    },
+    {
+        "en": "He's a trendsetter; he's always ahead of the curve.",
+        "hi": "वह नए चलन शुरू करने वाला है; वह हमेशा सबसे आगे रहता है।"
+    },
+    {
+        "en": "I'm feeling a bit out of my depth; I'm not sure I can handle this.",
+        "hi": "मुझे यह थोड़ा मुश्किल लग रहा है; मुझे यकीन नहीं है कि मैं इसे संभाल सकता हूँ।"
+    },
+    {
+        "en": "Let's keep it simple; we don't need to overcomplicate things.",
+        "hi": "चलो इसे सरल रखते हैं; हमें चीजों को ज़्यादा जटिल बनाने की ज़रूरत नहीं है।"
+    },
+    {
+        "en": "Don't get your hopes up too high; be prepared for disappointment.",
+        "hi": "ज़्यादा उम्मीदें मत रखो; निराशा के लिए तैयार रहो।"
+    },
+    {
+        "en": "He's a diamond in the rough; he has potential but needs to be polished.",
+        "hi": "उसमें प्रतिभा है, पर उसे तराशने की ज़रूरत है; उसमें क्षमता है लेकिन उसे चमकाने की ज़रूरत है।"
+    },
+    {
+        "en": "Let's go with the flow; we'll see what happens.",
+        "hi": "चलो जैसे चल रहा है, चलने देते हैं; हम देखेंगे कि क्या होता है।"
+    },
+    {
+        "en": "That's a real bummer; it's really disappointing.",
+        "hi": "यह सच में निराशाजनक है; यह सच में निराशाजनक है।"
+    },
+    {
+        "en": "The whole nine yards; everything, completely.",
+        "hi": "पूरी तरह से; सब कुछ, पूरी तरह से।"
+    },
+    {
+        "en": "Bite off more than you can chew; take on more than you can handle.",
+        "hi": "अपनी क्षमता से ज़्यादा काम लेना; जितना तुम संभाल सकते हो उससे ज़्यादा काम लेना।"
+    },
+    {
+        "en": "Go the extra mile; put in extra effort.",
+        "hi": "अतिरिक्त प्रयास करना; अतिरिक्त प्रयास करना।"
+    },
+    {
+        "en": "Hit the nail on the head; say exactly the right thing.",
+        "hi": "सही बात कहना; बिल्कुल सही बात कहना।"
+    },
+    {
+        "en": "Jump on the bandwagon; follow a trend.",
+        "hi": "देखा-देखी करना; एक चलन का पालन करना।"
+    },
+    {
+        "en": "Leave no stone unturned; try everything possible.",
+        "hi": "हर संभव प्रयास करना; हर संभव कोशिश करना।"
+    },
+    {
+        "en": "Make a long story short; summarize.",
+        "hi": "संक्षेप में कहना; संक्षेप में बताना।"
+    },
+    { "en": "On the same page; in agreement.", "hi": "एक ही राय होना; सहमत होना।" },
+    {
+        "en": "Play it by ear; improvise.",
+        "hi": "बिना तैयारी के काम करना; तात्कालिक रूप से करना।"
+    },
+    { "en": "Take a rain check; postpone.", "hi": "फिर कभी करना; स्थगित करना।" },
+    {
+        "en": "He's pulling my leg, isn't he?; He's joking, right?",
+        "hi": "वह मेरी टांग खींच रहा है, है ना?; वह मजाक कर रहा है, है ना?"
+    },
+    {
+        "en": "I'm feeling a bit out of sync with everyone today; I don't fit in.",
+        "hi": "आज मैं थोड़ा सबसे अलग महसूस कर रहा हूँ; मैं फिट नहीं बैठता।"
+    },
+    {
+        "en": "Let's not beat around the bush and get straight to the point; let's be direct.",
+        "hi": "चलो गोलमोल बातें नहीं करते और सीधे मुद्दे पर आते हैं; चलो सीधे बात करते हैं।"
+    },
+    {
+        "en": "That situation was a real Catch-22; whatever we did, we were doomed; there was no good solution.",
+        "hi": "वह स्थिति सच में एक कैच-22 थी; हम कुछ भी करते, हम बर्बाद हो जाते; कोई अच्छा समाधान नहीं था।"
+    },
+    {
+        "en": "She's got a bee in her bonnet about the new regulations; she's obsessed with them.",
+        "hi": "नई नियमों को लेकर उसके दिमाग में कुछ परेशानी चल रही है; वह उनसे ग्रस्त है।"
+    },
+    {
+        "en": "He's always trying to cut corners, which often leads to more problems down the line; he's taking shortcuts.",
+        "hi": "वह हमेशा शॉर्टकट मारने की कोशिश करता है, जिससे अक्सर आगे चलकर और ज़्यादा समस्याएँ आती हैं; वह शॉर्टकट ले रहा है।"
+    },
+    {
+        "en": "If you don't get your ducks in a row, this project is going to fail; you need to organize and plan properly.",
+        "hi": "अगर तुम सब कुछ ठीक से व्यवस्थित नहीं करोगे, तो यह प्रोजेक्ट बिगड़ जाएगा; तुम्हें ठीक से व्यवस्थित और योजना बनाने की ज़रूरत है।"
+    },
+    {
+        "en": "Despite the initial setbacks, they managed to turn the tables and come out on top; they overcame adversity and succeeded.",
+        "hi": "शुरुआती झटकों के बावजूद, वे स्थिति पलटने और शीर्ष पर आने में कामयाब रहे; उन्होंने विपरीत परिस्थितियों पर काबू पाया और सफल हुए।"
+    },
+    {
+        "en": "I'm walking on eggshells around him because he's been so touchy lately; I have to be very careful what I say.",
+        "hi": "मैं उसके आसपास बहुत सावधानी से पेश आ रहा हूँ क्योंकि वह आजकल बहुत चिड़चिड़ा है; मुझे बहुत सावधान रहना होगा कि मैं क्या कहता हूँ।"
+    },
+    {
+        "en": "Let's just agree to disagree and move on to a different topic; we're never going to see eye to eye on this.",
+        "hi": "चलो बस इस बात पर असहमत होते हैं और किसी और विषय पर चलते हैं; हम इस पर कभी भी सहमत नहीं होंगे।"
+    },
+    {
+        "en": "He's got a heart of gold, always helping others.",
+        "hi": "उसका दिल सोने का है, हमेशा दूसरों की मदद करता है।"
+    },
+    {
+        "en": "That's a tough act to follow, he set the bar high.",
+        "hi": "यह एक मुश्किल काम है, उसने स्तर ऊंचा कर दिया।"
+    },
+    {
+        "en": "I'm feeling a bit under the weather, might stay in tonight.",
+        "hi": "मैं थोड़ा बीमार महसूस कर रहा हूँ, शायद आज रात अंदर ही रहूँ।"
+    },
+    {
+        "en": "Let's get the ball rolling, time to start planning.",
+        "hi": "चलो काम शुरू करते हैं, योजना बनाने का समय है।"
+    },
+    {
+        "en": "That's a shot in the dark, but worth a try anyway.",
+        "hi": "यह अंधेरे में तीर चलाने जैसा है, लेकिन फिर भी कोशिश करने लायक है।"
+    },
+    {
+        "en": "He's a lone wolf, prefers working independently.",
+        "hi": "वह अकेला रहने वाला है, स्वतंत्र रूप से काम करना पसंद करता है।"
+    },
+    {
+        "en": "I'm feeling out of sorts, can't explain what's wrong.",
+        "hi": "मैं थोड़ा असहज महसूस कर रहा हूँ, बता नहीं सकता क्या गलत है।"
+    },
+    {
+        "en": "Let's play it by ear, see what happens and adapt.",
+        "hi": "चलो देखते हैं आगे क्या होता है, और उसके अनुसार ढलते हैं।"
+    },
+    {
+        "en": "That's a tough pill to swallow, but we must accept it.",
+        "hi": "यह स्वीकार करना मुश्किल है, लेकिन हमें इसे स्वीकार करना होगा।"
+    },
+    {
+        "en": "Don't jump the gun, let's wait for all the details.",
+        "hi": "जल्दबाजी मत करो, चलो सभी विवरणों का इंतजार करते हैं।"
+    },
+    {
+        "en": "He's a walking encyclopedia, knows everything about history.",
+        "hi": "वह चलता-फिरता विश्वकोश है, इतिहास के बारे में सब कुछ जानता है।"
+    },
+    {
+        "en": "I'm feeling a bit off today, need some rest and relaxation.",
+        "hi": "आज मेरी तबीयत थोड़ी ठीक नहीं है, मुझे आराम और विश्राम की ज़रूरत है।"
+    },
+    {
+        "en": "Let's touch base next week, discuss progress and next steps.",
+        "hi": "चलो अगले हफ्ते बात करते हैं, प्रगति और अगले कदमों पर चर्चा करते हैं।"
+    },
+    {
+        "en": "That's a wake-up call, we need to take action now.",
+        "hi": "यह एक चेतावनी है, हमें अब कार्रवाई करने की ज़रूरत है।"
+    },
+    {
+        "en": "It's a win-win situation, both sides benefit equally.",
+        "hi": "यह दोनों पक्षों के लिए फायदेमंद है, दोनों पक्षों को समान रूप से लाभ होता है।"
+    },
+    {
+        "en": "He's a chatterbox, never stops talking.",
+        "hi": "वह बहुत बातूनी है, कभी बात करना बंद नहीं करता।"
+    },
+    {
+        "en": "I'm feeling drained, need to recharge my energy levels.",
+        "hi": "मैं थका हुआ महसूस कर रहा हूँ, मुझे अपनी ऊर्जा के स्तर को फिर से भरने की ज़रूरत है।"
+    },
+    {
+        "en": "Let's table this for now, revisit it at the next meeting.",
+        "hi": "चलो इसे अभी के लिए रोक देते हैं, अगली बैठक में इस पर फिर से विचार करते हैं।"
+    },
+    {
+        "en": "That's a can of worms, better not to get involved.",
+        "hi": "यह झंझट का पिटारा है, बेहतर है कि इसमें शामिल न हों।"
+    },
+    {
+        "en": "Don't rock the boat, let's maintain the status quo.",
+        "hi": "हालात मत बिगाड़ो, चलो यथास्थिति बनाए रखते हैं।"
+    },
+    {
+        "en": "He's a go-getter, always striving for success.",
+        "hi": "वह मेहनती है, हमेशा सफलता के लिए प्रयास करता रहता है।"
+    },
+    {
+        "en": "I'm feeling under pressure, need to find a way to de-stress.",
+        "hi": "मैं दबाव महसूस कर रहा हूँ, मुझे तनाव कम करने का एक तरीका खोजने की ज़रूरत है।"
+    },
+    {
+        "en": "Let's wrap things up, time to head home for the day.",
+        "hi": "चलो सब कुछ समेटते हैं, आज के लिए घर जाने का समय है।"
+    },
+    {
+        "en": "That's a ballpark figure, just a rough estimate.",
+        "hi": "यह एक अनुमानित आंकड़ा है, सिर्फ एक मोटा अनुमान।"
+    },
+    {
+        "en": "It's a learning curve, takes time to acquire new skills.",
+        "hi": "यह सीखने की प्रक्रिया है, नए कौशल हासिल करने में समय लगता है।"
+    },
+    {
+        "en": "He's a mover and shaker, influential in the industry.",
+        "hi": "वह प्रभावशाली व्यक्ति है, उद्योग में प्रभावशाली है।"
+    },
+    {
+        "en": "I'm feeling overwhelmed, need to take a step back and breathe.",
+        "hi": "मैं अभिभूत महसूस कर रहा हूँ, मुझे एक कदम पीछे हटने और सांस लेने की ज़रूरत है।"
+    },
+    {
+        "en": "Let's circle back to this later, discuss it in more detail.",
+        "hi": "चलो बाद में इस पर फिर से बात करते हैं, इस पर और विस्तार से चर्चा करते हैं।"
+    },
+    {
+        "en": "That's a game changer, will revolutionize the market.",
+        "hi": "यह सब कुछ बदल देगा, बाजार में क्रांति ला देगा।"
+    },
+    {
+        "en": "Don't bite off more than you can chew, be realistic about your limits.",
+        "hi": "अपनी क्षमता से ज़्यादा काम मत लो, अपनी सीमाओं के बारे में यथार्थवादी बनें।"
+    },
+    {
+        "en": "He's an early bird, always up before sunrise.",
+        "hi": "वह सुबह जल्दी उठने वाला है, हमेशा सूर्योदय से पहले उठता है।"
+    },
+    {
+        "en": "I'm feeling restless, need to get out and do something active.",
+        "hi": "मैं बेचैन महसूस कर रहा हूँ, मुझे बाहर निकलकर कुछ सक्रिय करने की ज़रूरत है।"
+    },
+    {
+        "en": "Let's brainstorm some ideas, find a creative solution.",
+        "hi": "चलो कुछ विचार मंथन करते हैं, एक रचनात्मक समाधान खोजते हैं।"
+    },
+    {
+        "en": "That's a red flag, we need to be extra cautious.",
+        "hi": "यह खतरे का संकेत है, हमें अतिरिक्त सावधान रहने की ज़रूरत है।"
+    },
+    {
+        "en": "It's a tough crowd, difficult to impress.",
+        "hi": "यह मुश्किल लोगों का समूह है, प्रभावित करना मुश्किल है।"
+    },
+    {
+        "en": "I'm feeling wired, too much caffeine in my system.",
+        "hi": "मैं उत्तेजित महसूस कर रहा हूँ, मेरे सिस्टम में बहुत ज़्यादा कैफीन है।"
+    },
+    {
+        "en": "Let's get together sometime, catch up over dinner.",
+        "hi": "चलो कभी मिलते हैं, रात के खाने पर बातचीत करते हैं।"
+    },
+    {
+        "en": "That's a golden opportunity, we can't afford to miss it.",
+        "hi": "यह एक सुनहरा अवसर है, हम इसे खोने का जोखिम नहीं उठा सकते।"
+    },
+    {
+        "en": "Don't rain on my parade, let me enjoy my success.",
+        "hi": "मेरा मज़ा किरकिरा मत करो, मुझे अपनी सफलता का आनंद लेने दो।"
+    },
+    {
+        "en": "He's a workaholic, always putting in extra hours.",
+        "hi": "वह काम के प्रति बहुत समर्पित है, हमेशा अतिरिक्त घंटे लगाता है।"
+    },
+    {
+        "en": "I'm feeling foggy, can't seem to think clearly.",
+        "hi": "मेरा दिमाग धुंधला है, मैं स्पष्ट रूप से नहीं सोच पा रहा हूँ।"
+    },
+    {
+        "en": "Let's think outside the box, come up with a novel approach.",
+        "hi": "चलो कुछ अलग तरह से सोचते हैं, एक उपन्यास दृष्टिकोण के साथ आते हैं।"
+    },
+    {
+        "en": "That's a grey area, not clearly defined or regulated.",
+        "hi": "यह अस्पष्ट क्षेत्र है, स्पष्ट रूप से परिभाषित या विनियमित नहीं है।"
+    },
+    {
+        "en": "It's a long haul, requires patience and perseverance.",
+        "hi": "यह एक लंबी प्रक्रिया है, धैर्य और दृढ़ता की आवश्यकता है।"
+    },
+    {
+        "en": "He's a team player, always willing to collaborate.",
+        "hi": "वह टीम में मिलकर काम करने वाला है, हमेशा सहयोग करने को तैयार रहता है।"
+    },
+    {
+        "en": "I'm feeling zonked, ready to crash and go to sleep.",
+        "hi": "मैं बहुत थका हुआ महसूस कर रहा हूँ, सोने के लिए तैयार हूँ।"
+    },
+    {
+        "en": "Let's play devil's advocate, consider alternative viewpoints.",
+        "hi": "चलो विपरीत दृष्टिकोण से बहस करते हैं, वैकल्पिक दृष्टिकोणों पर विचार करते हैं।"
+    },
+    {
+        "en": "That's a silver lining, a positive aspect in a bad situation.",
+        "hi": "यह मुश्किल में भी एक अच्छी बात है, बुरी स्थिति में एक सकारात्मक पहलू।"
+    },
+    {
+        "en": "He's a breath of fresh air, brings new ideas and perspectives.",
+        "hi": "वह ताजगी का एहसास कराता है, नए विचार और दृष्टिकोण लाता है।"
+    },
+    {
+        "en": "I'm feeling jittery, nervous about the upcoming presentation.",
+        "hi": "मैं घबराया हुआ महसूस कर रहा हूँ, आने वाली प्रस्तुति के बारे में चिंतित हूँ।"
+    },
+    {
+        "en": "Let's get on the same page, ensure we all understand the plan.",
+        "hi": "चलो एक ही बात पर सहमत होते हैं, सुनिश्चित करें कि हम सभी योजना को समझते हैं।"
+    },
+    {
+        "en": "That's a tough break, a real stroke of bad luck.",
+        "hi": "यह बहुत बुरा हुआ, बुरी किस्मत का एक वास्तविक झटका।"
+    },
+    {
+        "en": "He's a man of few words, prefers to listen and observe.",
+        "hi": "वह कम बोलने वाला है, सुनना और निरीक्षण करना पसंद करता है।"
+    },
+    {
+        "en": "Let's cut to the chase, get straight to the point.",
+        "hi": "सीधे मुद्दे पर आते हैं, सीधे मुद्दे पर आते हैं।"
+    },
+    {
+        "en": "That's a recipe for disaster, likely to end badly.",
+        "hi": "यह बर्बादी का कारण बनेगा, बुरी तरह से समाप्त होने की संभावना है।"
+    },
+    {
+        "en": "Don't beat yourself up about it, everyone makes mistakes.",
+        "hi": "इसके बारे में खुद को दोष मत दो, हर कोई गलती करता है।"
+    },
+    {
+        "en": "He's a people person, enjoys interacting with others.",
+        "hi": "वह लोगों से आसानी से घुलमिल जाता है, दूसरों के साथ बातचीत करने का आनंद लेता है।"
+    },
+    {
+        "en": "Let's think big, aim for ambitious goals.",
+        "hi": "चलो बड़ा सोचते हैं, महत्वाकांक्षी लक्ष्यों के लिए लक्ष्य रखते हैं।"
+    },
+    {
+        "en": "That's a stepping stone, a step towards a larger goal.",
+        "hi": "यह एक शुरुआती कदम है, एक बड़े लक्ष्य की ओर एक कदम।"
+    },
+    {
+        "en": "It's a whole new ballgame, things have changed significantly.",
+        "hi": "यह बिल्कुल नई स्थिति है, चीजें काफी बदल गई हैं।"
+    },
+    {
+        "en": "He's a trendsetter, always ahead of the fashion curve.",
+        "hi": "वह नए चलन शुरू करने वाला है, हमेशा फैशन की दौड़ में आगे रहता है।"
+    },
+    {
+        "en": "I'm feeling out of my depth, not qualified for this task.",
+        "hi": "मुझे यह थोड़ा मुश्किल लग रहा है, मैं इस कार्य के लिए योग्य नहीं हूँ।"
+    },
+    {
+        "en": "Let's keep it simple, avoid unnecessary complexity.",
+        "hi": "चलो इसे सरल रखते हैं, अनावश्यक जटिलता से बचते हैं।"
+    },
+    {
+        "en": "Don't get your hopes up, manage your expectations.",
+        "hi": "ज़्यादा उम्मीदें मत रखो, अपनी उम्मीदों को प्रबंधित करो।"
+    },
+    {
+        "en": "He's a diamond in the rough, needs polishing but has potential.",
+        "hi": "उसमें प्रतिभा है, पर उसे तराशने की ज़रूरत है, उसे चमकाने की ज़रूरत है लेकिन उसमें क्षमता है।"
+    },
+    {
+        "en": "Let's go with the flow, adapt to changing circumstances.",
+        "hi": "चलो जैसे चल रहा है, चलने देते हैं, बदलती परिस्थितियों के अनुकूल होते हैं।"
+    },
+    {
+        "en": "That's a real bummer, a disappointing outcome.",
+        "hi": "यह सच में निराशाजनक है, एक निराशाजनक परिणाम।"
+    }
+]
